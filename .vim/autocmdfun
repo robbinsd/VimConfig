@@ -1,8 +1,0 @@
-function! Highlight_cursor ()
-    set cursorline
-    redraw
-    sleep 2
-    set nocursorline
-endfunction
-autocmd  InsertEnter * :call Highlight_cursor()
-

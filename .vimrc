@@ -11,4 +11,3 @@ set background=dark
 set hlsearch
 set ls=2
 filetype plugin indent on
-source ~/.vim/autocmdfun
